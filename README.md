@@ -4,6 +4,7 @@ Welcome to my repository! This repository provides resource for Natural Language
 ## NLP resource for preprocessing
 
 1. `Slang Word and Non-Formal Indonesian with their Formal Language`
+      <br>
     Reference:
     - <a href="https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection#id-multi-label-hate-speech-and-abusive-language-detection">@okkyibrohim</a>,
     - <a href="https://github.com/haryoa/indo-collex">@haryoa</a>,
