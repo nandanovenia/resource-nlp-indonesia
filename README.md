@@ -3,11 +3,11 @@ Welcome to my repository! This repository provides resource for Natural Language
 
 ## NLP resource for preprocessing
 
-1. `Slang Word and Non-Formal Indonesian with their Formal Language`
+1. `Slang Word and Non-Formal Indonesian with their Formal Language` (<a href="https://github.com/nandanovenia/resource-nlp-indonesia/blob/main/slang_word.txt">slang-word.txt</a>)
       <br>
     Reference:
-    - <a href="https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection#id-multi-label-hate-speech-and-abusive-language-detection">@okkyibrohim</a>,
-    - <a href="https://github.com/haryoa/indo-collex">@haryoa</a>,
-    - <a href="https://github.com/louisowen6/NLP_bahasa_resources">@louisowen6</a>,
+    - https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection#id-multi-label-hate-speech-and-abusive-language-detection,
+    - https://github.com/haryoa/indo-collex,
+    - https://github.com/louisowen6/NLP_bahasa_resources,
     - and addition from me
 3. `Additional stopwords besides in NLTK`
